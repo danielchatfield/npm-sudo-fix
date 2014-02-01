@@ -1,0 +1,21 @@
+{
+  "name": "npm-sudo-fix",
+  "version": "0.0.0",
+  "description": "A simple module for fixing permissions so that you can run npm without sudo.",
+  "main": "index.js",
+  "bin": {
+    "sudo-fix": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielchatfield/npm-sudo-fix.git"
+  },
+  "author": "http://danielchatfield.com",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/danielchatfield/npm-sudo-fix/issues"
+  },
+  "dependencies": {
+    "spawny": "0.0.1"
+  }
+}
