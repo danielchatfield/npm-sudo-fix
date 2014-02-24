@@ -5,8 +5,8 @@
 ## Usage
 
 ```
-$ sudo npm install -g sudo-fix
-$ sudo sudo-fix
+$ sudo npm install -g npm-sudo-fix
+$ sudo npm-sudo-fix
 
 ```
 

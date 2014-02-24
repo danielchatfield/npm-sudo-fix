@@ -4,7 +4,7 @@
   "description": "A simple module for fixing permissions so that you can run npm without sudo.",
   "main": "index.js",
   "bin": {
-    "sudo-fix": "index.js"
+    "npm-sudo-fix": "index.js"
   },
   "repository": {
     "type": "git",
