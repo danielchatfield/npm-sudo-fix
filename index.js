@@ -7,5 +7,4 @@ var username = process.env['USER'];
 
 spawny("sudo chown -R " + username + " /usr/local/lib/node_modules");
 
-spawny("sudo chown -R " + username + " ~/.npm");
-
+spawny("sudo chown -R " + username + " /users/" + username + "/.npm");
